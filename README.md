@@ -1,4 +1,4 @@
-# web3-react
+# web3-react aka anotherw3
 
 Warning: pre-alpha code!
 
